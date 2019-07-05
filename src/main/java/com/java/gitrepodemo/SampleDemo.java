@@ -11,5 +11,7 @@ public class SampleDemo {
 	
 		ConfigurableApplicationContext context = SpringApplication.run(SampleDemo.class, args);
 		System.out.println("hello raju this is my 1st program..."+context);
+		System.out.println("hello mahi =================================>");
+		
 	}
 }
